@@ -8,6 +8,7 @@
     </types>
     <types>
         <members>Chair__c.chairdescription__c</members>
+        <members>Chair__c.chairmanufacturedate__c</members>
         <name>CustomField</name>
     </types>
     <types>

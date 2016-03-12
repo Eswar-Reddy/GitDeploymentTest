@@ -71,4 +71,12 @@
     <pluralLabel>Chairs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <fields>
+        <fullName>chairmanufacturedate__c</fullName>
+        <externalId>false</externalId>
+        <label>chairmanufacturedate</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
 </CustomObject>
