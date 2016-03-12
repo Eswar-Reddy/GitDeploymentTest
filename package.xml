@@ -6,4 +6,16 @@
         <members>Welcome</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Chair__c.chairdescription__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Chair__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Chair__c-Chair Layout</members>
+        <name>Layout</name>
+    </types>
 </Package>
