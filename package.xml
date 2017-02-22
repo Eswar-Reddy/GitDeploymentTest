@@ -22,7 +22,10 @@
         <members>ApxCls2</members>
         <members>ApxCls3</members>
         <members>ApxCls4</members>
+        <members>ArDemo1</members>
         <members>CiInfo</members>
+        <members>MyClass</members>
+        <members>MyWorld</members>
         <members>Welcome</members>
         <members>cls1</members>
         <name>ApexClass</name>
