@@ -5,12 +5,14 @@
         <members>A12</members>
         <members>A13</members>
         <members>A1875</members>
+        <members>A21</members>
         <members>AClss1</members>
         <members>ARAPCLs1</members>
         <members>ARApexClass1</members>
         <members>ARApexClass4</members>
         <members>ARApexclass2</members>
         <members>ARApexclass234</members>
+        <members>AccCls1</members>
         <members>AccP1</members>
         <members>AccP11</members>
         <members>Apcls1</members>
@@ -177,6 +179,8 @@
         <name>CustomObjectTranslation</name>
     </types>
     <types>
+        <members>CustomEmailFolder</members>
+        <members>HiddenFolder1</members>
         <members>unfiled$public</members>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
