@@ -13,6 +13,7 @@
         <members>ARApexclass2</members>
         <members>ARApexclass234</members>
         <members>AccCls1</members>
+        <members>AccCls2</members>
         <members>AccP1</members>
         <members>AccP11</members>
         <members>Apcls1</members>
@@ -84,6 +85,7 @@
         <members>Case.caseglobal__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
+        <members>ExtObj3__x.ExtObj3Cites__c</members>
         <members>Goal.OrigGoalId__c</members>
         <members>Lead.CurrentGenerators__c</members>
         <members>Lead.NumberofLocations__c</members>
@@ -140,7 +142,9 @@
         <members>EntitlementContact</members>
         <members>Event</members>
         <members>ExObj1__x</members>
+        <members>ExObj2__x</members>
         <members>ExchangeUserMapping</members>
+        <members>ExtObj3__x</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
