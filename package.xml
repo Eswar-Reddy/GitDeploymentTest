@@ -86,6 +86,8 @@
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>ExtObj3__x.ExtObj3Cites__c</members>
+        <members>ExtObj3__x.ExtObj3PickList1__c</members>
+        <members>ExtObj3__x.ExtObj3PickList2__c</members>
         <members>Goal.OrigGoalId__c</members>
         <members>Lead.CurrentGenerators__c</members>
         <members>Lead.NumberofLocations__c</members>
@@ -182,6 +184,10 @@
         <members>Pen__c-en_US</members>
         <members>Table__c-en_US</members>
         <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>ExtObj3__x</members>
+        <name>CustomTab</name>
     </types>
     <types>
         <members>CustomEmailFolder</members>
